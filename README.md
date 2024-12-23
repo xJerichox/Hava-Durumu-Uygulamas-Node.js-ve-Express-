@@ -8,5 +8,4 @@ Basit bir REST API, belirli bir şehir için hava durumu bilgisini döndürür.
 ## Kullanım
 1. Projeyi klonlayın:
    ```bash
-   git clone https://github.com/kullanici-adiniz/weather-api.git
-   cd weather-api
+
